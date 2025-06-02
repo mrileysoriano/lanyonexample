@@ -14,4 +14,5 @@ If you want a link, you could simply do [this](https://mrileysoriano.github.io/l
 Here are some examples of Jekyll file syntax:
 - "2025-06-01-Hello-World.md"
 - "2025-06-02-Hello-Again.md"
+
 The ".md" signifies that this is a Markdown file. Jekyll usually displays dates in descending order (newer dates will appear first). That's why the example site for Lanyon shows "2020-04-03" for the "Introducing Lanyon" post. By placing that date (which could be entirely arbitrary), that post will be the first one that a user sees. 
