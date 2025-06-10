@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Issue 1: October 4, 1884
+title: Issue 1 - October 4, 1884
 ---
 
 # Title
