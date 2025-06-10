@@ -3,6 +3,12 @@ layout: page
 title: Issue 1 - October 4, 1884
 ---
 
+<object data="https://docs.google.com/viewerng/viewer?url=https://radicalperiodicalindex.com/files/original/2ee70102a2c8e132aa139933df80ead3.tif" type="application/tif" width="700px" height="700px">
+    <embed src="https://docs.google.com/viewerng/viewer?url=https://radicalperiodicalindex.com/files/original/2ee70102a2c8e132aa139933df80ead3.tif">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://docs.google.com/viewerng/viewer?url=https://radicalperiodicalindex.com/files/original/2ee70102a2c8e132aa139933df80ead3.tif">Download PDF</a>.</p>
+    </embed>
+</object>
+
 # Title
 Issue 1: October 4, 1884
 
