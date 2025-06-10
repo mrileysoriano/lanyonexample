@@ -1,7 +1,7 @@
 # Setup
 title:               Radical Periodical Index
 tagline:             'The Alarm'
-description:         'This is a GitHub edition of the [Radical Periodical Index](radicalperiodicalindex.com).'
+description:         'This is a GitHub edition of the <a href="radicalperiodicalindex.com">Radical Periodical Index</a>.'
 url:                 https://mrileysoriano.github.io/lanyonexample
 baseurl:             ''
 paginate:            5
